@@ -1,3 +1,4 @@
+package com.example.demo;
 public class Configurationfile {
 
     static int m=20;
